@@ -77,6 +77,6 @@
 - install.sh 
     - $ bash install.sh 터미널 실행 : 필요한 라이브러리 설치를 위한 파일
 - main.py 
-    - uvicorn main:app --reload : : 모델을 uvicorn app으로 실행하는 코드
+    - uvicorn main:app --reload : 모델을 uvicorn app으로 실행하는 코드
 
 
